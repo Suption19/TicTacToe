@@ -1,2 +1,2 @@
 # TicTacToe
-A C# project by the school
+A C# project for the school
